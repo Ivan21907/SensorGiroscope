@@ -61,7 +61,7 @@ public class SecondActivity extends AppCompatActivity
                 getWindow().getDecorView().setBackgroundColor(Color.CYAN);
                 textView.setText("NO HI HA RES A PROP, TOT CORRECTE!");
                 textView.setTextSize(30);
-                imageView.setImageResource(R.drawable.dedoarriba);
+                imageView.setImageResource(R.drawable.polzeamunt);
 
                 mp.stop(); //si no hi ha objecte a prop, parem el so
             }
